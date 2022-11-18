@@ -29,4 +29,4 @@
 <img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp;
 <img alt="telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>&nbsp;
 
-#### If you have any ideas or questions, if you just want to chat about web development, then contact me!)
+#### ✍🏼 If you have any ideas or questions, if you just want to chat about web development, then contact me!)
